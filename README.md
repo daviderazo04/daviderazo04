@@ -27,6 +27,7 @@ Soy estudiante de Ingeniería en Sistemas de Información con una profunda pasi�
 ## Contactos:
 
 [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=black)](www.linkedin.com/in/david-erazo-7a7223292)
+[![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/david-erazo-7a7223292)
 
 
 
